@@ -1,0 +1,11 @@
+Message: The app crashes every time I open it!
+Filtered Keywords: ['app', 'crashes', 'every', 'time', 'open', 'it']
+Classification: Technical Support
+
+Message: I was charged for my subscription.
+Filtered Keywords: ['was', 'charged', 'subscription']
+Classification: Billing Support
+
+Message: Can you tell me more about your services?
+Filtered Keywords: ['can', 'you', 'tell', 'me', 'more', 'about', 'your', 'services']
+Classification: General Inquiry
